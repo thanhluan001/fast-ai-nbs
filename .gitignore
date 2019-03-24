@@ -1,0 +1,7 @@
+*~
+.*
+!.gitignore
+.ipynb_checkpoints/
+data
+planet
+SegNet-Tutorial
